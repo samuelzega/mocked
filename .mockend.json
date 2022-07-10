@@ -3,6 +3,6 @@
     "title": { "string": {} },
     "user": { "string": {} },
     "description": { "string": {} },
-    "completed": { "string": {} }
+    "completed": { "boolean": {} }
   }
 }

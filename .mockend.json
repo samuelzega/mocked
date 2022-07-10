@@ -1,0 +1,8 @@
+{
+  "Post": {
+    "title": { "string": {} },
+    "user": { "string": {} },
+    "description": { "string": {} },
+    "completed": { "string": {} }
+  }
+}
